@@ -5705,9 +5705,9 @@ let cards = [
     githubLink: 'https://github.com/ShyTech1'
   },
   {
-    artName: 'Serene Animation'
+    artName: 'Serene Animation',
     pageLink: './Art/sereneanimation/index.html',
-    imageLink: './Art/sereneanimation/trance.gif',
+    imageLink: './Art/sereneanimation/animation.gif',
     author: 'Serene',
     githubLink: 'https://github.com/meikuan23'
   },
